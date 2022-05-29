@@ -1,0 +1,23 @@
+.experienceView{
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-top: 0.5em;
+    text-align: justify;
+}
+.experienceView h4 {
+    color:#00334d;
+}
+.job{
+    margin-top: 1em;
+}
+.time{
+    margin-bottom: 0px;
+}
+.job h5 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.job div p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}

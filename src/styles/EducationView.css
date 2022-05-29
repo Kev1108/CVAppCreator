@@ -1,0 +1,32 @@
+.educationView{
+    padding-top: 2.5em;
+    padding-left: 2em;
+    
+}
+.educationView h4{
+    color: #00334d;
+}
+.educationSection{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.periodStyle{
+    display: flex;
+    align-items: center;
+    margin-right: 1em;
+
+}
+.periodStyle div{
+    padding: 0.3em;
+    font-size: 1em;
+    border: 1px solid #00334d;
+      
+}
+.educationDetails{
+   
+    display: flex;
+    flex-direction: column;
+    
+}

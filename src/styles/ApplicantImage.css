@@ -1,0 +1,20 @@
+.imageBox {
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageBox div {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 5px;
+}
+.imageBox div img {
+    width: 100%;
+    height: auto;
+}

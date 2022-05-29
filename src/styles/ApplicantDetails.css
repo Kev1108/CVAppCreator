@@ -1,0 +1,15 @@
+
+.details-view div {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    display: flex;
+    justify-content: space-between;
+    color: whitesmoke;
+}
+.details-view hr {
+    color: whitesmoke;
+    margin-top: 0px;
+}
+.details-view p {
+    text-align: right;
+}

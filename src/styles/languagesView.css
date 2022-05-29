@@ -1,0 +1,13 @@
+.languagesView{
+    padding-top: 1em;
+   padding-left: 2em;
+   
+
+}
+.languagesView h4 {
+    color: #00334d;
+}
+.languages{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,11 @@
+
+.applicant-name{
+    padding-top: 3em;
+    padding-left: 2em;
+    color: #00334d;
+
+}
+.applicant-name hr {
+    border: 2px solid #999900;
+}
+
