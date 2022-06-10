@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/CVAppCreator/static/css/main.f7c7e79b.css",
-    "main.js": "/CVAppCreator/static/js/main.f60c90bd.js",
+    "main.js": "/CVAppCreator/static/js/main.2a32b56d.js",
     "static/js/787.28cb0dcd.chunk.js": "/CVAppCreator/static/js/787.28cb0dcd.chunk.js",
     "static/media/bootstrap-icons.woff?": "/CVAppCreator/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
     "static/media/bootstrap-icons.woff2?": "/CVAppCreator/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
     "index.html": "/CVAppCreator/index.html",
     "main.f7c7e79b.css.map": "/CVAppCreator/static/css/main.f7c7e79b.css.map",
-    "main.f60c90bd.js.map": "/CVAppCreator/static/js/main.f60c90bd.js.map",
+    "main.2a32b56d.js.map": "/CVAppCreator/static/js/main.2a32b56d.js.map",
     "787.28cb0dcd.chunk.js.map": "/CVAppCreator/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7c7e79b.css",
-    "static/js/main.f60c90bd.js"
+    "static/js/main.2a32b56d.js"
   ]
 }
