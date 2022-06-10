@@ -45,7 +45,7 @@ const ExperienceForm = () => {
             </div>
             <div className='col-xs-10 col-md-4 mt-1'>
                 <label>Job Description:</label>
-                <textarea rows="6" cols="50" value={job.responsabilities} onChange={(e)=>dispatch(experienceActions.setResponsability({index:i,text:e.target.value}))} required></textarea>
+                <textarea  value={job.responsabilities} onChange={(e)=>dispatch(experienceActions.setResponsability({index:i,text:e.target.value}))} required></textarea>
             </div>
             </div>
         )}
