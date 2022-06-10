@@ -17,8 +17,8 @@ const ProfileForm = (props) => {
   return (
     <div className='container mt-2'>
         <h2 className='mt-1'>Step 5.  Profile.</h2>
-        <form onSubmit={handleSubmit}>
-            <textarea rows='6' cols='50' value = {profile} onChange = {handleChange} required></textarea>
+        <form className="col-xs-10"onSubmit={handleSubmit}>
+            <textarea style={{width:"100%"}} value = {profile} onChange = {handleChange} required></textarea>
             <div className='d-flex justify-content-end'><button  type='submit' className='btn' style={{backgroundColor:"#C2DED1"}}>Finish</button></div>
         </form>
     </div>
